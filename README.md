@@ -1,4 +1,4 @@
-# grumpy-foxes-grab
+# VisIt Web
 
 <div align="center" style="margin: 30px;">
     <a href="https://refine.dev">
@@ -17,19 +17,19 @@ Refine's hooks and components simplifies the development process and eliminates 
 
 ## Available Scripts
 
-### Running the development server.
+### Running the development server
 
 ```bash
     npm run dev
 ```
 
-### Building for production.
+### Building for production
 
 ```bash
     npm run build
 ```
 
-### Running the production server.
+### Running the production server
 
 ```bash
     npm run start
